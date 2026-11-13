@@ -1,0 +1,6 @@
+{
+  "service": "Campus Status",
+  "port": 443,
+  "interval_seconds": 60,
+  "timeout_seconds": 5
+}

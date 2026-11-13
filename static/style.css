@@ -1,0 +1,34 @@
+* { box-sizing: border-box; }
+
+body {
+  max-width: 70rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.55;
+  color: #17212b;
+  background: #ffffff;
+}
+
+header, footer {
+  padding: 1rem 0;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+main {
+  border-top: 1px solid #c7d0d9;
+  border-bottom: 1px solid #c7d0d9;
+  padding: 1rem 0 2rem;
+}
+
+a {
+  color: #075fa8;
+}
+
+code {
+  background: #eef2f5;
+  padding: 0.1rem 0.25rem;
+}
